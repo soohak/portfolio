@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+
+/* HTML and Body Styles */
+
+html {
+    height: 100%;
+    width: 100%;
+    font-family: Verdana, "Geneva", sans-serif;
+}
+
+.lead {
+    font-family: Verdana, "Geneva", sans-serif;
+	font-size: 1em;
+	color: darkred;
+}
+
+h2 {
+	padding-bottom: 0.5em;
+}
+
+.featurette-image {
+	width: 100%;
+}
+
+.first-slide, .second-slide {
+		width: 100%;
+}
+
