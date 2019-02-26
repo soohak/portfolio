@@ -10,13 +10,23 @@ html {
 .lead {
     font-family: Verdana, "Geneva", sans-serif;
 	font-size: 1em;
-	color: darkred;
+	color: darkcyan;
 }
 
 h2 {
-	padding-bottom: 0.5em;
+    padding-bottom: 0.5em;
+    color:darkblue;
 }
 
 img {
 	width: 100%;
+}
+
+.edList li{
+    color:darkblue;
+}
+
+h1{
+    color: darkred;
+
 }
