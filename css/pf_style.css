@@ -3,6 +3,11 @@
 
 /* HTML and Body Styles */
 
+h2, h3 {
+	color: darkred;
+	padding-bottom: 0.5em;
+}
+
 html {
     height: 100%;
     width: 100%;
@@ -12,11 +17,7 @@ html {
 .lead {
     font-family: Verdana, "Geneva", sans-serif;
 	font-size: 1em;
-	color: darkred;
-}
-
-h2 {
-	padding-bottom: 0.5em;
+	color: darkblue;
 }
 
 .featurette-image {
@@ -27,3 +28,7 @@ h2 {
 	width: 100%;
 }
 
+.cmt{
+	color:darkgreen;
+	text-align: center;
+}
