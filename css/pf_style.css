@@ -3,8 +3,13 @@
 
 /* HTML and Body Styles */
 
-h2, h3 {
+h2 {
 	color: darkred;
+	padding-bottom: 0.5em;
+}
+
+h3 {
+	color: darkgoldenrod;
 	padding-bottom: 0.5em;
 }
 
@@ -28,7 +33,3 @@ html {
 	width: 100%;
 }
 
-.cmt{
-	color:darkgreen;
-	text-align: center;
-}
